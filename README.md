@@ -10,7 +10,7 @@ Recognizer is an Android application that empowers users to extract valuable inf
 
 ## Key Features
 
-- **Camera Capture and Image Selection:** Choose between capturing an image using your phone's camera or selecting an image from your device.
+- **Camera Capture and Image Selection:** Choose between using your phone's camera or selecting an image from your device.
 - **Text Recognition:** Extract phone numbers, email addresses, and website links from images using powerful text recognition algorithms.
 - **Save as Contact:** Save the extracted information as a new contact directly from the app.
 - **History Tracking:** Keep track of your text recognition history, making it easy to revisit and reuse past results.
@@ -30,7 +30,7 @@ Recognizer is an Android application that empowers users to extract valuable inf
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/recognizer.git
+    git clone https://github.com/your-username/Recognizer.git
     ```
 
 2. Open the project in Android Studio.
@@ -48,7 +48,7 @@ Recognizer is an Android application that empowers users to extract valuable inf
 
 ## Contributing
 
-We welcome contributions! Feel free to open issues or submit pull requests to help improve Recognizer.
+I welcome contributions! Feel free to open issues or submit pull requests to help improve Recognizer.
 
 ## License
 
